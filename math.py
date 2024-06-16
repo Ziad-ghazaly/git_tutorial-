@@ -1,5 +1,5 @@
 def add(x,y) 
-    return none 
+    return x+y 
 def multi(x,y) 
     return none 
 
